@@ -8,6 +8,7 @@
     "scheme": "resqbag",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "platforms": ["ios", "android", "web"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.resqbag.customer"
